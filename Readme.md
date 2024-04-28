@@ -1,4 +1,4 @@
-# Movie Website
+# Movie Website (MovieHub)
 
 Welcome to the Movie Website project! This project was created as part of an Internshala assignment using ReactJS and Tailwind CSS.
 
@@ -26,9 +26,9 @@ To run this project locally, follow these steps:
 Clone this repository to your local machine.
 Navigate to the project directory.
 Run npm install to install dependencies.
-Run npm start to start the development server.
-Open your web browser and go to http://localhost:3000 to view the website.
+Run npm dev to start the development server.
+Open your web browser and go to http://localhost:5173 to view the website.
 
 ### Packages
 
-1. react-icons
+react-icons
