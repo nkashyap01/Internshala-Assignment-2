@@ -32,3 +32,14 @@ Open your web browser and go to http://localhost:5173 to view the website.
 ### Packages
 
 react-icons
+
+## User Interface
+
+### Laptop
+![Screenshot 2024-04-29 002923](https://github.com/nkashyap01/Internshala-Assignment-2/assets/121566993/266b0e29-858a-46d2-8200-67bd58e8eadc)
+
+### Tablet
+![Screenshot 2024-04-29 002952](https://github.com/nkashyap01/Internshala-Assignment-2/assets/121566993/02bd186b-fca7-44d4-b5c3-b916f1bd4e2c)
+
+### Mobile
+![Screenshot 2024-04-29 003011](https://github.com/nkashyap01/Internshala-Assignment-2/assets/121566993/65b62efd-e7fd-4e7c-a87f-5a9c2945d094)
